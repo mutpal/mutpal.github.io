@@ -3,12 +3,13 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-#nav2{background: linear-gradient(to bottom, rgba(36,35,34,0.95) 0%, rgba(52,51,50,0.95) 24%, rgba(102,102,102,1) 100%);
+#nav2{
 	height: 50%;
 	color: #E5E500;
 opacity: 80%;
 text-align: center;	}
  #nav2 h1{font-size: 18px}
+#wrappernav2{background: linear-gradient(to bottom, rgba(36,35,34,0.95) 0%, rgba(52,51,50,0.95) 24%, rgba(102,102,102,1) 100%);}
 
 
 
@@ -26,9 +27,7 @@ text-align: center;	}
 
 
 
-#headersection{background-color: #363534;}
-
-#nav{ background-color: #363534;
+#nav{ background: linear-gradient(to bottom, rgba(36,35,34,0.95) 0%, rgba(52,51,50,0.95) 24%, rgba(102,102,102,1) 100%);
 	height: 1000px;
 	padding: -15px;
 
@@ -77,7 +76,7 @@ opacity: 80%;}
 
 
 
-#nav li a:hover{background-color: #2f2f2f;
+#nav2 li a:hover,#nav li a:hover{background-color: #2f2f2f;
 }
 
 
